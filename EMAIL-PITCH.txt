@@ -1,0 +1,15 @@
+Subject: quick 30s redesign for amaya skin & hair aesthetic clinic
+
+hi dr. shama,
+
+i spent a few minutes on https://www.amayaclinics.com/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=book-an-appointment&utm_term=website-link&utm_content=amaya-clinics today and noticed a few conversion leaks that cost high-ticket laser skin / hair bookings (no interactive 60-second patient assessment, no instant WhatsApp desk concierge, and static mobile layout).
+
+so i rebuilt the full website experience for Amaya Skin & Hair Aesthetic Clinic using our Mark 85 Dental Design System — complete with your services, interactive before/after transformations, 60-second patient assessment, and direct WhatsApp booking:
+
+Live Redesign Demo: https://amaya-skin-hair-aesthetic-clinic-iq2kcm7gh.vercel.app
+30-Second Walkthrough Video: [ATTACH OR PASTE 30-SEC LOOM/SCREEN VIDEO HERE]
+
+if you like how it feels, happy to connect it to your clinic WhatsApp & Instagram in 10 mins — today 7:30 pm or tomorrow 11:30 am?
+
+— koushik
+understone ai automation · hyderabad
